@@ -1,8 +1,9 @@
-const captcha = document.querySelector(".captcha"),
-reloadBtn = document.querySelector(".reload-btn"),
-inputField = document.querySelector(".input-area input"),
-checkBtn = document.querySelector(".check-btn"),
-statusTxt = document.querySelector(".status-text");
+// Declare variables
+const captcha = document.querySelector(".captcha");
+const reloadBtn = document.querySelector(".reload-btn");
+const inputField = document.querySelector(".input-area input");
+const checkBtn = document.querySelector(".check-btn");
+const statusTxt = document.querySelector(".status-text");
 
 //storing all captcha characters in array
 let allCharacters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O',
