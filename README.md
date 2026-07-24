@@ -19,3 +19,6 @@ This is a Custom Captcha web app built with HTML, CSS, and JavaScript. It genera
 - addEventListener() → handles reload/check clicks
 - setTimeout() → refreshes after success
 
+▶️ How to Run
+- Open index.html in your browser
+
