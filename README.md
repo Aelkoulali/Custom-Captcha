@@ -13,3 +13,6 @@ This is a Custom Captcha web app built with HTML, CSS, and JavaScript. It genera
 - CSS
 - JavaScript
 
+## 🧮 JavaScript Concepts Used
+
+
